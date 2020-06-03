@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nome": "Felipe",
+        "cidade": "Araguaina"
+    },
+    {
+        "id": 2,
+        "nome": "Fernanda",
+        "cidade": "Araguaina"
+    },
+    {
+        "id": 3,
+        "nome": "Ana",
+        "cidade": "Filadelfia"
+    },
+    {
+        "id": 4,
+        "nome": "Tiago",
+        "cidade": "Filadelfia"
+    },
+    {
+        "id": 5,
+        "nome": "Vanessa",
+        "cidade": "Gurupi"
+    }
+]
